@@ -152,7 +152,7 @@ Sends a user message and receives an AI response.
 - **Similarity Threshold**: Configurable in `ai_agent.py`
 
 ### Knowledge Sources (PDFs and Documents)
-- **Local PDFs**: None are included in the repository by default. To add source documents for RAG, place them in a `sources/` folder at the repo root (or keep them externally and ingest during deployment).
+- **Included PDF**: `PrinciplesForManagementofCreditRisk.pdf` — placed at the repository root. This PDF is part of the credit risk guidebook used as a source for retrieval.
 - **How it's used**: The project loads documents (PDFs) and converts them into vector embeddings stored in `credit_risk_management_guidebook_vectorstore/` for semantic search during RAG. The loader in `ai_agent.py` uses `PyMuPDFLoader` to read PDF content and `OllamaEmbeddings` to create embeddings.
 
 ### Updating the Vector Store with New Documents
@@ -230,7 +230,72 @@ cd ttb-chatbot-ui
 npm run build
 ```
 
-## 📦 Dependencies
+## � Docker
+
+Docker is used to containerize both the backend and frontend for consistent deployments across environments.
+
+### Build Backend Image
+
+```bash
+# Build the backend Docker image
+docker build -f Dockerfile -t ttb-chatbot-backend:latest .
+
+# Run the container locally
+docker run --rm -it -p 8000:8000 ttb-chatbot-backend:latest
+```
+
+### Build Frontend Image
+
+```bash
+# Build the frontend Docker image
+cd ttb-chatbot-ui
+docker build -f Dockerfile -t ttb-chatbot-frontend:latest .
+
+# Run the container
+docker run --rm -it -p 5173:5173 ttb-chatbot-frontend:latest
+```
+
+### Docker Compose
+
+Run both services together:
+
+```bash
+# Build and start all services
+docker compose up --build
+
+# Run in background
+docker compose up -d --build
+
+# Stop services
+docker compose down
+```
+
+### Push Images to Registry
+
+**Push to Docker Hub:**
+```bash
+docker login
+docker tag ttb-chatbot-backend:latest your-username/ttb-chatbot-backend:latest
+docker push your-username/ttb-chatbot-backend:latest
+```
+
+**Push to GitHub Container Registry (GHCR):**
+```bash
+# Login with GitHub token
+echo $GITHUB_TOKEN | docker login ghcr.io -u your-username --password-stdin
+
+# Tag and push
+docker tag ttb-chatbot-backend:latest ghcr.io/your-username/ttb-chatbot-backend:latest
+docker push ghcr.io/your-username/ttb-chatbot-backend:latest
+```
+
+### Docker Best Practices
+
+- Never commit `.env` files; use `--env-file` at runtime or secret managers in production
+- For large assets (PDFs), store externally or use Git LFS
+- Ensure port mappings match the application configuration (backend: 8000, frontend: 5173)
+
+## �📦 Dependencies
 
 ### Backend
 - `fastapi`: Web framework
