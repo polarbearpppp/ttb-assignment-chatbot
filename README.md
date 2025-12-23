@@ -270,30 +270,6 @@ docker compose up -d --build
 docker compose down
 ```
 
-### Push Images to Registry
-
-**Push to Docker Hub:**
-```bash
-docker login
-docker tag ttb-chatbot-backend:latest your-username/ttb-chatbot-backend:latest
-docker push your-username/ttb-chatbot-backend:latest
-```
-
-**Push to GitHub Container Registry (GHCR):**
-```bash
-# Login with GitHub token
-echo $GITHUB_TOKEN | docker login ghcr.io -u your-username --password-stdin
-
-# Tag and push
-docker tag ttb-chatbot-backend:latest ghcr.io/your-username/ttb-chatbot-backend:latest
-docker push ghcr.io/your-username/ttb-chatbot-backend:latest
-```
-
-### Docker Best Practices
-
-- Never commit `.env` files; use `--env-file` at runtime or secret managers in production
-- For large assets (PDFs), store externally or use Git LFS
-- Ensure port mappings match the application configuration (backend: 8000, frontend: 5173)
 
 ## �📦 Dependencies
 
@@ -318,24 +294,4 @@ docker push ghcr.io/your-username/ttb-chatbot-backend:latest
 - Consider adding authentication/authorization
 - Sanitize logged data to avoid sensitive information exposure
 
-## 📈 Performance Notes
 
-- LLM response time depends on Ollama model size and hardware
-- Vector search is optimized with similarity threshold filtering
-- Consider implementing response caching for frequently asked questions
-- Batch processing can be added for high-volume scenarios
-
-## 🤝 Contributing
-
-1. Create a feature branch
-2. Make your changes
-3. Run tests and linting
-4. Submit a pull request
-
-## 📄 License
-
-[Add your license information here]
-
-## 💬 Support
-
-For issues or questions, please contact the development team or open an issue in the repository.
