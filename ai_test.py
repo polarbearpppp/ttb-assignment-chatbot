@@ -20,12 +20,20 @@ def run_tests():
         print(f"💬 User: {case['payload']['message']}")
         
         try:
+            # Prepare payload with correct field names
+            payload = {
+                "user_input": case['payload']['message'],
+                "thread_id": case['payload']['thread_id']
+            }
+            
             # Send to FastAPI
-            response = requests.post(BASE_URL, json=case['payload'])
+            response = requests.post(BASE_URL, json=payload)
             
             if response.status_code == 200:
                 result = response.json()
-                print(f"✅ AI Response: {result['response']}")
+                print(f"✅ AI Response: {result.get('response', 'No response')}")
+                print(f"📌 Decision: {result.get('decision', 'N/A')}")
+                print(f"📊 Metadata: {result.get('metadata', {})}")
             else:
                 print(f"❌ Error {response.status_code}: {response.text}")
 
