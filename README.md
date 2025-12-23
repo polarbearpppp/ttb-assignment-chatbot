@@ -52,6 +52,11 @@ ttb-chatbot/
 
 1. **Install Python Dependencies**
    ```bash
+   pip install -r requirements.txt
+   ```
+   
+   Or install manually:
+   ```bash
    pip install fastapi uvicorn langgraph langchain-community langchain-ollama chroma-db pydantic
    ```
 
