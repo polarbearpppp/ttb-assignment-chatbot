@@ -69,7 +69,7 @@ ttb-chatbot/
 
 3. **Start the Backend Server**
    ```bash
-   uvicorn main:app --reload
+   uvicorn backend:app --reload
    ```
    The API will be available at `http://localhost:8000`
 
