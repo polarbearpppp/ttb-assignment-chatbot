@@ -1,0 +1,1419 @@
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: option1
+Decision: option1
+Output: Here's a description of strawberries in 10 words:
+
+Sweet, juicy, red berries, perfect for summer treats!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T12:56:41.246902Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2374960958, 'load_duration': 187620500, 'prompt_eval_count': 17, 'prompt_eval_duration': 178225208, 'eval_count': 27, 'eval_duration': 1961054334}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: option2
+Decision: option2
+Output: Okay, here’s a description of Apple in 10 words:
+
+Innovative design, user-friendly technology, premium products, and a loyal customer base.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T12:57:02.929787Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 3015630959, 'load_duration': 197274250, 'prompt_eval_count': 17, 'prompt_eval_duration': 175920125, 'eval_count': 34, 'eval_duration': 2590687042}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: สวัสดี
+Decision: option1
+Output: Here's a description of strawberries in 10 words:
+
+Sweet, juicy, red berries, perfect for summer treats!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:00:34.805249Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2276483417, 'load_duration': 182230958, 'prompt_eval_count': 17, 'prompt_eval_duration': 172419833, 'eval_count': 27, 'eval_duration': 1882054919}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: สวัสดี
+Decision: option1
+Output: Here's a description of strawberries in 10 words:
+
+Sweet, juicy, red berries, perfect for summer treats!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:03:21.113345Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2276340875, 'load_duration': 182358750, 'prompt_eval_count': 17, 'prompt_eval_duration': 173536708, 'eval_count': 27, 'eval_duration': 1873772206}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: option1
+Decision: option1
+Output: Here's a description of strawberries in 10 words:
+
+Sweet, juicy, red berries, perfect for summer treats!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:12:13.774952Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2460439875, 'load_duration': 186355125, 'prompt_eval_count': 17, 'prompt_eval_duration': 172930333, 'eval_count': 27, 'eval_duration': 2045095960}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: สวัสดี
+Decision: option1
+Output: Here's a description of strawberries in 10 words:
+
+Sweet, juicy, red berries, perfect for summer treats!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:12:20.719259Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2308568333, 'load_duration': 178366792, 'prompt_eval_count': 17, 'prompt_eval_duration': 171826042, 'eval_count': 27, 'eval_duration': 1923306456}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: สวัสดี
+Decision: option1
+Output: Here's a description of strawberries in 10 words:
+
+Sweet, juicy, red berries, perfect for summer treats!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:12:48.908507Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2356688750, 'load_duration': 176950500, 'prompt_eval_count': 17, 'prompt_eval_duration': 176080208, 'eval_count': 27, 'eval_duration': 1949182497}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: hello
+Decision: option1
+Output: Here's a description of strawberries in 10 words:
+
+Sweet, juicy, red berries, perfect for summer treats!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:13:14.286823Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2272765875, 'load_duration': 179971375, 'prompt_eval_count': 17, 'prompt_eval_duration': 173331167, 'eval_count': 27, 'eval_duration': 1865838544}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: option1
+Decision: option1
+Output: Here's a description of strawberries in 10 words:
+
+Sweet, juicy, red berries, perfect for summer treats!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:14:51.686452Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 3533615250, 'load_duration': 236875334, 'prompt_eval_count': 17, 'prompt_eval_duration': 1299898958, 'eval_count': 27, 'eval_duration': 1950884669}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: option4
+Decision: option4
+Output: Okay, here’s a description of Grape in 10 words or less:
+
+**Grape: Sweet, juicy fruit, bursting with flavor, versatile, delicious.** 
+
+Would you like me to elaborate on a specific aspect of grapes?
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:15:36.514818Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 5883230666, 'load_duration': 234947541, 'prompt_eval_count': 17, 'prompt_eval_duration': 1307623792, 'eval_count': 51, 'eval_duration': 4208064668}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: option1
+Decision: option1
+Output: Sweet, juicy, red berries – a summertime favorite!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:19:05.940692Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2434638959, 'load_duration': 240875834, 'prompt_eval_count': 18, 'prompt_eval_duration': 1360414959, 'eval_count': 12, 'eval_duration': 807237249}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: option2
+Decision: option2
+Output: Innovative design, premium products, loyal customers, and a powerful ecosystem.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:19:13.919962Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1731294584, 'load_duration': 188952084, 'prompt_eval_count': 18, 'prompt_eval_duration': 361360000, 'eval_count': 15, 'eval_duration': 1148864958}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: สวัสดี
+Decision: unknown
+Output: สวัสดี! (Sà-wàt-dee!)
+
+That means "Hello!" in Thai. 😊 
+
+Is there anything I can help you with today?
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:20:01.721987Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 3958569292, 'load_duration': 221097125, 'prompt_eval_count': 20, 'prompt_eval_duration': 1249922166, 'eval_count': 35, 'eval_duration': 2424794627}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: ข้าวหมูเเดง
+Decision: unknown
+Output: Okay, let's talk about ข้าวหมูแดง (Khao Moo Daeng)! 
+
+**What is Khao Moo Daeng?**
+
+Khao Moo Daeng (ข้าวหมูแดง) literally translates to "red pork rice." It's a hugely popular and beloved dish in Thailand, particularly in the central region. It’s a flavorful and rich rice dish featuring:
+
+* **Red Pork (หมูแดง - Moo Daeng):** This is the star of the show! The pork is traditionally braised for *hours* in a sweet and savory sauce. This sauce is what gives the pork its signature reddish-brown color and incredibly delicious flavor. The braising process breaks down the pork, making it incredibly tender and succulent. The sauce typically includes ingredients like:
+    * Soy sauce
+    * Chinese rice wine (Shaoxing wine)
+    * Sugar
+    * Five-spice powder
+    * Star anise
+    * Cinnamon
+    * Ginger
+* **Rice (ข้าว - Khao):** Usually jasmine rice, cooked to a perfect fluffy texture.
+* **Pickled Vegetables (ผักดอง - Phak Dong):**  A generous portion of pickled vegetables, often made with carrots, green beans, and papaya, adds a refreshing and tangy counterpoint to the richness of the pork.
+* **Soy Sauce (น้ำซุป - Nam Sup):**  A small bowl of soy sauce is served alongside for those who want to add more flavor.
+* **Chili Oil (น้ำมันพริก - Nam Man Phrik):**  Often served on the side for those who like a bit of heat.
+
+
+**Why is it so popular?**
+
+* **Flavor:** The combination of the tender, sweet, and savory red pork with the tangy pickled vegetables and fluffy rice is incredibly satisfying.
+* **Cultural Significance:** Khao Moo Daeng is often served during special occasions and celebrations in Thailand.
+* **Regional Variation:**  Recipes vary slightly from region to region, with some places using different spices or techniques for braising the pork.
+
+**Where can you find it?**
+
+You can find Khao Moo Daeng in many restaurants throughout Thailand, especially in cities like Bangkok, Chiang Mai, and Ayutthaya.  Many family-run restaurants specialize in this dish.
+
+---
+
+**Do you want to know more about:**
+
+*   Specific regional variations of Khao Moo Daeng?
+*   How the red pork is traditionally prepared?
+*   Where to find good Khao Moo Daeng restaurants in a particular city?
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:25:05.665594Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 39700453583, 'load_duration': 217276791, 'prompt_eval_count': 26, 'prompt_eval_duration': 1247267584, 'eval_count': 527, 'eval_duration': 37488852111}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: ไข่เจียว
+Decision: unknown
+Output: ไข่เจียว คือ ไข่คนทอด ครับ! (Khai jiao khue khai khon thot khrap!) 
+
+(ไข่เจียว is fried egg, and "ครับ" is a polite particle used by men.)
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:26:14.44977Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 5164935709, 'load_duration': 202621125, 'prompt_eval_count': 36, 'prompt_eval_duration': 1173186333, 'eval_count': 52, 'eval_duration': 3706213541}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: หมูทอด
+Decision: unknown
+Output: หมูทอด คือ หมูทอดกรอบอร่อย!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:26:32.216506Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 3096375333, 'load_duration': 188893166, 'prompt_eval_count': 36, 'prompt_eval_duration': 1885650250, 'eval_count': 15, 'eval_duration': 995700418}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: สวัสดี
+Decision: unknown
+Output: สวัสดีค่ะ/ครับ (Sawasdee ka/krap)
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:26:42.763811Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1411414666, 'load_duration': 189695041, 'prompt_eval_count': 33, 'prompt_eval_duration': 246450167, 'eval_count': 14, 'eval_duration': 954443164}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: อยากสอบถามอะไรหน่อย
+Decision: unknown
+Output: อยากสอบถามอะไรหน่อย?
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:26:52.997968Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 878074916, 'load_duration': 191760791, 'prompt_eval_count': 37, 'prompt_eval_duration': 242323583, 'eval_count': 7, 'eval_duration': 428563292}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: อยากทำไข่ทอด
+Decision: unknown
+Output: อยากทำไข่ทอด! 😊
+
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:27:15.02447Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2207397458, 'load_duration': 191968750, 'prompt_eval_count': 38, 'prompt_eval_duration': 1322057250, 'eval_count': 10, 'eval_duration': 669287416}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: สอบถามอะไรหน่อย
+Decision: unknown
+Output: สอบถามอะไรหน่อย?
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:27:59.529491Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1891749333, 'load_duration': 220818917, 'prompt_eval_count': 38, 'prompt_eval_duration': 1224781584, 'eval_count': 6, 'eval_duration': 415726710}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: สอบถามอะไรหน่อนย
+Decision: unknown
+Output: สอบถามอะไรครับ/คะ?
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:28:27.447698Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2003553833, 'load_duration': 215266791, 'prompt_eval_count': 39, 'prompt_eval_duration': 1267113750, 'eval_count': 8, 'eval_duration': 500111000}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: ทำไข่ทอดอย่างไร
+Decision: unknown
+Output: ตอกไข่ใส่จาน, ยอดลงก่อน, ตั้งไฟกลาง, รอไข่สุกตามชอบ!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:28:41.934594Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 3892679250, 'load_duration': 193295583, 'prompt_eval_count': 39, 'prompt_eval_duration': 1804888916, 'eval_count': 26, 'eval_duration': 1843316169}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: how to make streak
+Decision: unknown
+Output: Okay, here’s how to make a streak, very brief:
+
+1.  **Set a small, achievable daily goal.** (Like 15 minutes of exercise)
+2.  **Do it *every* day.** Consistency is key.
+3.  **Track it.** (Use an app or just a calendar)
+
+Basically, just keep going!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:28:55.637032Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 7455807000, 'load_duration': 181130417, 'prompt_eval_count': 37, 'prompt_eval_duration': 1745547083, 'eval_count': 77, 'eval_duration': 5423302452}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: option2
+Decision: option2
+Output: Innovative design, premium products, loyal customers, and a powerful ecosystem.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:29:09.150414Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1546207417, 'load_duration': 229532042, 'prompt_eval_count': 18, 'prompt_eval_duration': 260423042, 'eval_count': 15, 'eval_duration': 1032807833}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: option1
+Decision: option1
+Output: Sweet, juicy, red berries – a summertime favorite!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:29:35.867087Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2570529000, 'load_duration': 229058375, 'prompt_eval_count': 18, 'prompt_eval_duration': 1405770459, 'eval_count': 12, 'eval_duration': 896432083}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: option3
+Decision: option3
+Output: Vibrant, citrusy, refreshing, energetic, and a burst of sunshine!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:29:46.181384Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1701410750, 'load_duration': 218018292, 'prompt_eval_count': 18, 'prompt_eval_duration': 270840708, 'eval_count': 17, 'eval_duration': 1183375039}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: option4
+Decision: option4
+Output: Sweet, juicy grape: a delicious, versatile fruit enjoyed worldwide.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:29:48.99767Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1457607625, 'load_duration': 197881834, 'prompt_eval_count': 18, 'prompt_eval_duration': 251870750, 'eval_count': 14, 'eval_duration': 985949501}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: option2
+Decision: option2
+Output: Innovative design, premium products, loyal customers, and a powerful ecosystem.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T13:29:52.311293Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1544365208, 'load_duration': 202278916, 'prompt_eval_count': 18, 'prompt_eval_duration': 255861250, 'eval_count': 15, 'eval_duration': 1059757623}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: I want to know ข้าวผัด
+Decision: unknown
+Output: ข้าวผัด (khao phat) is Thai fried rice – rice stir-fried with meat, vegetables, and seasonings.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T14:07:28.070182Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 7218807125, 'load_duration': 4055108541, 'prompt_eval_count': 41, 'prompt_eval_duration': 979932709, 'eval_count': 27, 'eval_duration': 2077722958}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: วิธีทำ fried rice
+Decision: unknown
+Output: แน่นอน นี่คือวิธีทำ fried rice แบบสั้นๆ:
+
+1.  ผัดไข่ (ถ้าชอบ)
+2.  ใส่ข้าวเย็น (สำคัญ!)
+3.  ผัดกับส่วนผสม (ผัก, เนื้อ, อะไรก็ได้)
+4.  ปรุงรส (ซีอิ๊ว, พริกไทย)
+5.  เสิร์ฟ!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T14:08:00.183789Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 7352431500, 'load_duration': 375443083, 'prompt_eval_count': 37, 'prompt_eval_duration': 1146885917, 'eval_count': 78, 'eval_duration': 5712661166}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: how to make friend rice
+Decision: unknown
+Output: Okay, here’s how to make Friend Rice in a nutshell:
+
+1.  **Cook Rice:** Prepare rice according to package directions.
+2.  **Make Dressing:** Whisk together mayonnaise, rice vinegar, sugar, and soy sauce.
+3.  **Combine:** Mix cooked rice with dressing.
+4.  **Chill:** Refrigerate for at least 30 minutes to let flavors meld. 
+
+Enjoy!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T14:08:42.835486Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 8581225417, 'load_duration': 194692542, 'prompt_eval_count': 38, 'prompt_eval_duration': 1427372167, 'eval_count': 91, 'eval_duration': 6803884084}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: ttb-session-hybrid
+Input: option1
+Decision: option1
+Output: Sweet, juicy, red berries – a summertime favorite!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T14:31:03.813158Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 6262466042, 'load_duration': 4073714625, 'prompt_eval_count': 18, 'prompt_eval_duration': 1007279500, 'eval_count': 12, 'eval_duration': 1101777127}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_3193
+Input: option1
+Decision: option1
+Output: Sweet, juicy, red berries – a summertime favorite!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T14:44:16.971101Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 7875423708, 'load_duration': 5564785875, 'prompt_eval_count': 18, 'prompt_eval_duration': 1257710333, 'eval_count': 12, 'eval_duration': 949813583}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_1434
+Input: option3
+Decision: option3
+Output: Vibrant, citrusy, refreshing, energetic, and a burst of sunshine!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T14:47:52.768594Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 3141412375, 'load_duration': 291492666, 'prompt_eval_count': 18, 'prompt_eval_duration': 1476629334, 'eval_count': 17, 'eval_duration': 1333873663}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_4553
+Input: option1
+Decision: option1
+Output: Sweet, juicy, red berries – a summertime favorite!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T14:48:57.662426Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2636308625, 'load_duration': 206201333, 'prompt_eval_count': 18, 'prompt_eval_duration': 1454180708, 'eval_count': 12, 'eval_duration': 945040584}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_4307
+Input: option2
+Decision: option2
+Output: Innovative design, premium products, loyal customers, and a powerful ecosystem.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T14:49:07.683856Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2851280416, 'load_duration': 213196458, 'prompt_eval_count': 18, 'prompt_eval_duration': 1444138375, 'eval_count': 15, 'eval_duration': 1163853042}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_3085
+Input: option2
+Decision: option2
+Output: Innovative design, premium products, loyal customers, and a powerful ecosystem.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T14:52:02.75715Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2804682500, 'load_duration': 231017375, 'prompt_eval_count': 18, 'prompt_eval_duration': 1357292541, 'eval_count': 15, 'eval_duration': 1182776794}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_3085
+Input: option1
+Decision: option1
+Output: Sweet, juicy, red berries – a summertime favorite!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T14:52:05.236291Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1464274375, 'load_duration': 248083416, 'prompt_eval_count': 18, 'prompt_eval_duration': 276940458, 'eval_count': 12, 'eval_duration': 915012956}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_3085
+Input: option3
+Decision: option3
+Output: Vibrant, citrusy, refreshing, energetic, and a burst of sunshine!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T14:52:08.862299Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1901675250, 'load_duration': 226703250, 'prompt_eval_count': 18, 'prompt_eval_duration': 266502709, 'eval_count': 17, 'eval_duration': 1379540125}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_3085
+Input: option4
+Decision: option4
+Output: Sweet, juicy grape: a delicious, versatile fruit enjoyed worldwide.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T14:52:14.500619Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2840573042, 'load_duration': 196839333, 'prompt_eval_count': 18, 'prompt_eval_duration': 1422436792, 'eval_count': 14, 'eval_duration': 1191124708}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_3085
+Input: สวัสดี
+Decision: unknown
+Output: สวัสดีค่ะ/ครับ
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T14:52:20.05472Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1926534167, 'load_duration': 206701667, 'prompt_eval_count': 34, 'prompt_eval_duration': 1351589750, 'eval_count': 5, 'eval_duration': 351860708}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_4194
+Input: option1
+Decision: option1
+Output: Sweet, juicy, red berries – a summertime favorite!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T14:52:30.368193Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2410878500, 'load_duration': 210356042, 'prompt_eval_count': 18, 'prompt_eval_duration': 1294364916, 'eval_count': 12, 'eval_duration': 856965001}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9258
+Input: option1
+Decision: option1
+Output: Sweet, juicy, red berries – a summertime favorite!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T15:38:30.509024Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 5921247542, 'load_duration': 4036954292, 'prompt_eval_count': 18, 'prompt_eval_duration': 906076625, 'eval_count': 12, 'eval_duration': 892176210}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9258
+Input: option1
+Decision: unknown
+Output: Okay, please provide option 1.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T15:49:53.42646Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 5575019083, 'load_duration': 3272598292, 'prompt_eval_count': 35, 'prompt_eval_duration': 1415015208, 'eval_count': 9, 'eval_duration': 832485208}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_8977
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: เปิดบัญชีง่ายมากค่ะ! ไปที่ธนาคารหรือสถาบันการเงินที่คุณต้องการ แล้วกรอกเอกสารและข้อมูลส่วนตัวตามที่ธนาคารกำหนดค่ะ 😊
+
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T15:51:54.562687Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 5125733333, 'load_duration': 276013125, 'prompt_eval_count': 37, 'prompt_eval_duration': 1483852333, 'eval_count': 39, 'eval_duration': 3284005874}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_8977
+Input: สินเชื่อ
+Decision: สินเชื่อ
+Output: สินเชื่อ แปลว่า "loan" หรือ "credit" ครับ (Sin cheua phlat wa "loan" rue "credit" khrap)
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T15:52:06.300358Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 3818853042, 'load_duration': 192933750, 'prompt_eval_count': 35, 'prompt_eval_duration': 1331833250, 'eval_count': 30, 'eval_duration': 2234301709}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_8977
+Input: สินเชื่อ
+Decision: สินเชื่อ
+Output: 
+Metadata: {'method': 'string_match', 'tokens': 0, 'time': '2025-12-22T22:53:53.086911'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_7214
+Input: สินเชื่อ
+Decision: สินเชื่อ
+Output: 
+Metadata: {'method': 'string_match', 'tokens': 0, 'time': '2025-12-22T22:54:11.373413'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_7214
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: 
+Metadata: {'method': 'string_match', 'tokens': 0, 'time': '2025-12-22T22:54:23.820140'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_7214
+Input: ยอดเงินไม่เข้า
+Decision: ยอดเงินไม่เข้า
+Output: 
+Metadata: {'method': 'string_match', 'tokens': 0, 'time': '2025-12-22T22:54:27.648602'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_7214
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: 
+Metadata: {'method': 'string_match', 'tokens': 0, 'time': '2025-12-22T22:54:28.101998'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_7214
+Input: สวัสดี
+Decision: unknown
+Output: สวัสดีครับ/ค่ะ 😊
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T15:54:37.228991Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2006837417, 'load_duration': 232253209, 'prompt_eval_count': 34, 'prompt_eval_duration': 1364469750, 'eval_count': 6, 'eval_duration': 395814918}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_7214
+Input: สินเชื่อ
+Decision: สินเชื่อ
+Output: สวัสดีครับ/ค่ะ 😊
+Metadata: {'method': 'string_match', 'tokens': 0, 'time': '2025-12-22T22:55:06.123475'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_7214
+Input: สินเชื่อ
+Decision: สินเชื่อ
+Output: สินเชื่อ แปลว่า "loan" หรือ "credit" ครับ (Sin cheua phlat wa "loan" rue "credit" khrap)
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T15:55:15.004122Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 4453018042, 'load_duration': 211270125, 'prompt_eval_count': 35, 'prompt_eval_duration': 1426558250, 'eval_count': 30, 'eval_duration': 2733504627}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_7214
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: เปิดบัญชีง่ายมากค่ะ! ไปที่ธนาคารหรือสถาบันการเงินที่คุณต้องการ แล้วกรอกเอกสารและข้อมูลส่วนตัวตามที่ธนาคารกำหนดค่ะ 😊
+
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T15:55:31.357403Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 4665059583, 'load_duration': 209780125, 'prompt_eval_count': 37, 'prompt_eval_duration': 1391475083, 'eval_count': 39, 'eval_duration': 2987291587}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_7214
+Input: ยอดเงินไม่เข้า
+Decision: ยอดเงินไม่เข้า
+Output: ยอดเงินไม่เข้า คือ เงินยังไม่เข้าบัญชีครับ
+
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T15:55:35.392207Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1518215542, 'load_duration': 213859458, 'prompt_eval_count': 38, 'prompt_eval_duration': 262875375, 'eval_count': 14, 'eval_duration': 1007715957}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_7214
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: สแกนจ่ายไม่ได้ แปลว่า เครื่องสแกนไม่ทำงาน หรือระบบไม่รับข้อมูล
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T15:55:44.984757Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2248559500, 'load_duration': 202639292, 'prompt_eval_count': 38, 'prompt_eval_duration': 270473625, 'eval_count': 19, 'eval_duration': 1708632288}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9050
+Input: option2
+Decision: unknown
+Output: Please provide me with option 2! I need to know what it is to give you a brief, to-the-point answer.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T16:02:42.544375Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 7504474459, 'load_duration': 3416295084, 'prompt_eval_count': 35, 'prompt_eval_duration': 1045006000, 'eval_count': 29, 'eval_duration': 2947597001}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9050
+Input: option1
+Decision: unknown
+Output: Okay, please provide option 1.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T16:02:54.091244Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2546480625, 'load_duration': 214936292, 'prompt_eval_count': 35, 'prompt_eval_duration': 1540897750, 'eval_count': 9, 'eval_duration': 761242667}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_4235
+Input: option2
+Decision: option2
+Output: Innovative design, premium products, loyal customers, and a powerful ecosystem.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T16:03:02.998139Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2680681041, 'load_duration': 203821083, 'prompt_eval_count': 18, 'prompt_eval_duration': 1254078250, 'eval_count': 15, 'eval_duration': 1177998375}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_4235
+Input: option1
+Decision: option1
+Output: Sweet, juicy, red berries – a summertime favorite!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T16:03:08.519818Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1311477083, 'load_duration': 184528917, 'prompt_eval_count': 18, 'prompt_eval_duration': 233517792, 'eval_count': 12, 'eval_duration': 871692168}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_4235
+Input: option2
+Decision: option2
+Output: Innovative design, premium products, loyal customers, and a powerful ecosystem.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T16:04:33.781151Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 3027668333, 'load_duration': 249021458, 'prompt_eval_count': 18, 'prompt_eval_duration': 1431505167, 'eval_count': 15, 'eval_duration': 1297902958}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_4235
+Input: option4
+Decision: option4
+Output: Sweet, juicy grape: a delicious, versatile fruit enjoyed worldwide.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T16:04:39.803221Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2811739333, 'load_duration': 258485250, 'prompt_eval_count': 18, 'prompt_eval_duration': 1420827416, 'eval_count': 14, 'eval_duration': 1093102834}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_4235
+Input: option3
+Decision: option3
+Output: Vibrant, citrusy, refreshing, energetic, and a burst of sunshine!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T16:04:44.261535Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1932741667, 'load_duration': 195463792, 'prompt_eval_count': 18, 'prompt_eval_duration': 304445250, 'eval_count': 17, 'eval_duration': 1387078750}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_8792
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: 
+Metadata: {'method': 'string_match', 'tokens': 0, 'time': '2025-12-22T23:15:08.491570'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_8792
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: Innovative design, premium products, loyal customers, and a powerful ecosystem.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T16:16:59.033523Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 3582601958, 'load_duration': 258350708, 'prompt_eval_count': 18, 'prompt_eval_duration': 1479266792, 'eval_count': 15, 'eval_duration': 1625995123}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_8792
+Input: สินชื่อ
+Decision: สินชื่อ
+Output: Sweet, juicy, red berries – a summertime favorite!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T16:17:06.226904Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2603727167, 'load_duration': 254732792, 'prompt_eval_count': 18, 'prompt_eval_duration': 1410545125, 'eval_count': 12, 'eval_duration': 905749209}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_8792
+Input: ยอดเงินไม่เข้า
+Decision: ยอดเงินไม่เข้า
+Output: Vibrant, citrusy, refreshing, energetic, and a burst of sunshine!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T16:17:09.925057Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1829384417, 'load_duration': 187365500, 'prompt_eval_count': 18, 'prompt_eval_duration': 274906666, 'eval_count': 17, 'eval_duration': 1316647915}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_8792
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: Sweet, juicy grape: a delicious, versatile fruit enjoyed worldwide.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T16:17:12.899053Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1569029958, 'load_duration': 206097625, 'prompt_eval_count': 18, 'prompt_eval_duration': 254297750, 'eval_count': 14, 'eval_duration': 1080789082}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_8792
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: Innovative design, premium products, loyal customers, and a powerful ecosystem.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T16:22:11.404059Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2859903750, 'load_duration': 213827250, 'prompt_eval_count': 18, 'prompt_eval_duration': 1459758500, 'eval_count': 15, 'eval_duration': 1153702416}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_8792
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: Innovative design, premium products, loyal customers, and a powerful ecosystem.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T16:52:58.919229Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 5770863292, 'load_duration': 3561378250, 'prompt_eval_count': 18, 'prompt_eval_duration': 955594667, 'eval_count': 15, 'eval_duration': 1181079583}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_4654
+Input: สินชื่อ
+Decision: สินชื่อ
+Output: Sweet, juicy, red berries – a summertime favorite!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T16:56:43.750787Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 10124360417, 'load_duration': 240523292, 'prompt_eval_count': 18, 'prompt_eval_duration': 8941367250, 'eval_count': 12, 'eval_duration': 869953374}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: Sweet, juicy grape: a delicious, versatile fruit enjoyed worldwide.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:00:35.752111Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2816212834, 'load_duration': 264724917, 'prompt_eval_count': 18, 'prompt_eval_duration': 1428243500, 'eval_count': 14, 'eval_duration': 1083010668}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: cat
+Decision: unknown
+Output: Feline.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:01:56.256852Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2047084083, 'load_duration': 201811917, 'prompt_eval_count': 34, 'prompt_eval_duration': 1447072042, 'eval_count': 4, 'eval_duration': 368478958}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: dog
+Decision: unknown
+Output: Loyal, furry friend.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:02:08.753098Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1392286292, 'load_duration': 217909458, 'prompt_eval_count': 34, 'prompt_eval_duration': 685741125, 'eval_count': 7, 'eval_duration': 471027707}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: cat
+Decision: unknown
+Output: I don't have that information about cat.
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: What about credit risk mangement
+Decision: unknown
+Output: Okay, here’s a recommended follow-up question based on that context:
+
+“What about managing credit risk exposure within acceptable parameters?”
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: What about credit risk mangement
+Decision: unknown
+Output: The goal of credit risk management is to maximise a bank’s risk-adjusted rate of return by maintaining credit risk exposure within acceptable parameters. Banks need to manage the credit risk inherent in the entire portfolio as well as the risk in individual credits or transactions.
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: อะไรคือ credit risk mangement
+Decision: unknown
+Output: Credit risk management คือ การบริหารจัดการความเสี่ยงที่เกี่ยวข้องกับการผิดนัดชำระหนี้ของลูกค้า
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: อะไรคือ credit risk
+Decision: unknown
+Output: Credit risk คือความเสี่ยงที่ลูกค้าจะไม่สามารถชำระหนี้ได้ตามที่ตกลงกันไว้ค่ะ
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: What about credit risk
+Decision: unknown
+Output: What about credit risk?
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: What about credit risk
+Decision: unknown
+Output: What about credit risk?
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: What about credit
+Decision: unknown
+Output: I don't have that information about What about credit.
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: What about credit risk
+Decision: unknown
+Output: What about credit risk?
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: What about credit risk
+Decision: unknown
+Output: What about credit risk – banks should also consider its relationships with other risks?
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: cat
+Decision: unknown
+Output: I don't have that information about cat.
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: What about credit risk mangement
+Decision: unknown
+Output: The goal of credit risk management is to maximise a bank’s risk-adjusted rate of return by maintaining credit risk exposure within acceptable parameters. Banks need to manage the credit risk inherent in the entire portfolio as well as the risk in individual credits or transactions.
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: What about credit risk
+Decision: unknown
+Output: What about credit risk – banks should consider its relationship with other risks for long-term success?
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: cat
+Decision: unknown
+Output: I don't have that information about cat.
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: yes
+Decision: unknown
+Output: I don't have that information about yes.
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: What about credit risk
+Decision: unknown
+Output: What about credit risk – banks should also consider its relationships with other risks?Yes or No?
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9174
+Input: What about credit risk – banks should also consider its relationships with other risks?
+Decision: unknown
+Output: Yes, banks should also consider the relationships between credit risk and other risks. Effective management of credit risk is a critical component of a comprehensive approach to risk management and essential to the long-term success of any banking organisation.
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_6037
+Input: สินชื่อ
+Decision: สินชื่อ
+Output: Loan info: ...
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_6037
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: Account info: ...
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_6037
+Input: ยอดเงินไม่เข้า
+Decision: ยอดเงินไม่เข้า
+Output: Balance info: ...
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_6037
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: Payment info: ...
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_6037
+Input: ยอดเงินไม่เข้า
+Decision: ยอดเงินไม่เข้า
+Output: Balance info: ...
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_655
+Input: สินชื่อ
+Decision: สินชื่อ
+Output: Sweet, juicy, red berries – a summertime favorite!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:23:17.425558Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2661447917, 'load_duration': 225213542, 'prompt_eval_count': 18, 'prompt_eval_duration': 1481599709, 'eval_count': 12, 'eval_duration': 917810501}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_655
+Input: credit risk mangement
+Decision: unknown
+Output: Okay, let's discuss credit risk management. This module, “Principles for the Management of Credit Risk,” focuses on introductory concepts within that area.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:23:17.425558Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2661447917, 'load_duration': 225213542, 'prompt_eval_count': 18, 'prompt_eval_duration': 1481599709, 'eval_count': 12, 'eval_duration': 917810501}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_655
+Input:  credit risk 
+Decision: unknown
+Output: Okay, here’s a recommended follow-up question based on your query and the provided context:
+
+“Can you elaborate on how credit risk is defined, particularly regarding borrower obligations?”
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:23:17.425558Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2661447917, 'load_duration': 225213542, 'prompt_eval_count': 18, 'prompt_eval_duration': 1481599709, 'eval_count': 12, 'eval_duration': 917810501}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_655
+Input: Can you elaborate on how credit risk is defined, particularly regarding borrower obligations?
+Decision: unknown
+Output: Credit risk is most simply defined as the potential that a bank borrower or counterparty will fail to meet its obligations in accordance with agreed terms.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:23:17.425558Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2661447917, 'load_duration': 225213542, 'prompt_eval_count': 18, 'prompt_eval_duration': 1481599709, 'eval_count': 12, 'eval_duration': 917810501}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_655
+Input: cat
+Decision: unknown
+Output: I don't have that information about cat.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:23:17.425558Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2661447917, 'load_duration': 225213542, 'prompt_eval_count': 18, 'prompt_eval_duration': 1481599709, 'eval_count': 12, 'eval_duration': 917810501}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_655
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: Sweet, juicy grape: a tiny, delicious burst of flavor.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:26:57.659135Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 1665519167, 'load_duration': 199977125, 'prompt_eval_count': 18, 'prompt_eval_duration': 285919750, 'eval_count': 14, 'eval_duration': 1141458876}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_371
+Input: สินเชื่อ
+Decision: สินเชื่อ
+Output: Sweet, juicy, red berries – a summer delight!
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:27:28.539707Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 3072812500, 'load_duration': 225454875, 'prompt_eval_count': 18, 'prompt_eval_duration': 1558689541, 'eval_count': 12, 'eval_duration': 1199085624}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_371
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: Innovative design, premium products, loyal customers, and a powerful ecosystem.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:27:37.461398Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2994247000, 'load_duration': 219347334, 'prompt_eval_count': 18, 'prompt_eval_duration': 1353503500, 'eval_count': 15, 'eval_duration': 1379805456}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_371
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: Sweet, juicy grape: a delicious, versatile fruit enjoyed worldwide.
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:28:53.209286Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2539383500, 'load_duration': 234111792, 'prompt_eval_count': 18, 'prompt_eval_duration': 1280835500, 'eval_count': 14, 'eval_duration': 990308624}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สินเชื่อ
+Decision: สินเชื่อ
+Output: คุณสามารถสมัครสินเชื่อเบื้องต้นได้ผ่านแอปพลิเคชันในเมนู 'สินเชื่อ' หรือติดต่อสาขาใกล้บ้านครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: ยอดเงินไม่เข้า
+Decision: ยอดเงินไม่เข้า
+Output: หากยอดเงินไม่เข้า โปรดรอตรวจสอบระบบ 1-2 ชั่วโมง หรือส่งหลักฐานสลิปให้เจ้าหน้าที่ตรวจสอบผ่านแชทนี้ครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: หากสแกนจ่ายไม่ได้ โปรดตรวจสอบยอดเงินในบัญชี หรือตรวจสอบว่าแอปพลิเคชันเป็นเวอร์ชันล่าสุดแล้วหรือไม่
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สินเชื่อ
+Decision: สินเชื่อ
+Output: คุณสามารถสมัครสินเชื่อเบื้องต้นได้ผ่านแอปพลิเคชันในเมนู 'สินเชื่อ' หรือติดต่อสาขาใกล้บ้านครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: หากสแกนจ่ายไม่ได้ โปรดตรวจสอบยอดเงินในบัญชี หรือตรวจสอบว่าแอปพลิเคชันเป็นเวอร์ชันล่าสุดแล้วหรือไม่
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: ยอดเงินไม่เข้า
+Decision: ยอดเงินไม่เข้า
+Output: หากยอดเงินไม่เข้า โปรดรอตรวจสอบระบบ 1-2 ชั่วโมง หรือส่งหลักฐานสลิปให้เจ้าหน้าที่ตรวจสอบผ่านแชทนี้ครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: ยอดเงินไม่เข้า
+Decision: ยอดเงินไม่เข้า
+Output: หากยอดเงินไม่เข้า โปรดรอตรวจสอบระบบ 1-2 ชั่วโมง หรือส่งหลักฐานสลิปให้เจ้าหน้าที่ตรวจสอบผ่านแชทนี้ครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: ยอดเงินไม่เข้า
+Decision: ยอดเงินไม่เข้า
+Output: หากยอดเงินไม่เข้า โปรดรอตรวจสอบระบบ 1-2 ชั่วโมง หรือส่งหลักฐานสลิปให้เจ้าหน้าที่ตรวจสอบผ่านแชทนี้ครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: หากสแกนจ่ายไม่ได้ โปรดตรวจสอบยอดเงินในบัญชี หรือตรวจสอบว่าแอปพลิเคชันเป็นเวอร์ชันล่าสุดแล้วหรือไม่
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สินเชื่อ
+Decision: สินเชื่อ
+Output: คุณสามารถสมัครสินเชื่อเบื้องต้นได้ผ่านแอปพลิเคชันในเมนู 'สินเชื่อ' หรือติดต่อสาขาใกล้บ้านครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สินเชื่อ
+Decision: สินเชื่อ
+Output: คุณสามารถสมัครสินเชื่อเบื้องต้นได้ผ่านแอปพลิเคชันในเมนู 'สินเชื่อ' หรือติดต่อสาขาใกล้บ้านครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: ยอดเงินไม่เข้า
+Decision: ยอดเงินไม่เข้า
+Output: หากยอดเงินไม่เข้า โปรดรอตรวจสอบระบบ 1-2 ชั่วโมง หรือส่งหลักฐานสลิปให้เจ้าหน้าที่ตรวจสอบผ่านแชทนี้ครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: หากสแกนจ่ายไม่ได้ โปรดตรวจสอบยอดเงินในบัญชี หรือตรวจสอบว่าแอปพลิเคชันเป็นเวอร์ชันล่าสุดแล้วหรือไม่
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: หากสแกนจ่ายไม่ได้ โปรดตรวจสอบยอดเงินในบัญชี หรือตรวจสอบว่าแอปพลิเคชันเป็นเวอร์ชันล่าสุดแล้วหรือไม่
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: หากสแกนจ่ายไม่ได้ โปรดตรวจสอบยอดเงินในบัญชี หรือตรวจสอบว่าแอปพลิเคชันเป็นเวอร์ชันล่าสุดแล้วหรือไม่
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: หากสแกนจ่ายไม่ได้ โปรดตรวจสอบยอดเงินในบัญชี หรือตรวจสอบว่าแอปพลิเคชันเป็นเวอร์ชันล่าสุดแล้วหรือไม่
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: หากสแกนจ่ายไม่ได้ โปรดตรวจสอบยอดเงินในบัญชี หรือตรวจสอบว่าแอปพลิเคชันเป็นเวอร์ชันล่าสุดแล้วหรือไม่
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สินเชื่อ
+Decision: สินเชื่อ
+Output: คุณสามารถสมัครสินเชื่อเบื้องต้นได้ผ่านแอปพลิเคชันในเมนู 'สินเชื่อ' หรือติดต่อสาขาใกล้บ้านครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สินเชื่อ
+Decision: สินเชื่อ
+Output: คุณสามารถสมัครสินเชื่อเบื้องต้นได้ผ่านแอปพลิเคชันในเมนู 'สินเชื่อ' หรือติดต่อสาขาใกล้บ้านครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: หากสแกนจ่ายไม่ได้ โปรดตรวจสอบยอดเงินในบัญชี หรือตรวจสอบว่าแอปพลิเคชันเป็นเวอร์ชันล่าสุดแล้วหรือไม่
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: หากสแกนจ่ายไม่ได้ โปรดตรวจสอบยอดเงินในบัญชี หรือตรวจสอบว่าแอปพลิเคชันเป็นเวอร์ชันล่าสุดแล้วหรือไม่
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: หากสแกนจ่ายไม่ได้ โปรดตรวจสอบยอดเงินในบัญชี หรือตรวจสอบว่าแอปพลิเคชันเป็นเวอร์ชันล่าสุดแล้วหรือไม่
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: ยอดเงินไม่เข้า
+Decision: ยอดเงินไม่เข้า
+Output: หากยอดเงินไม่เข้า โปรดรอตรวจสอบระบบ 1-2 ชั่วโมง หรือส่งหลักฐานสลิปให้เจ้าหน้าที่ตรวจสอบผ่านแชทนี้ครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: ยอดเงินไม่เข้า
+Decision: ยอดเงินไม่เข้า
+Output: หากยอดเงินไม่เข้า โปรดรอตรวจสอบระบบ 1-2 ชั่วโมง หรือส่งหลักฐานสลิปให้เจ้าหน้าที่ตรวจสอบผ่านแชทนี้ครับ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สวัสดีครับ
+Decision: unknown
+Output: สวัสดีครับ ไม่ทราบข้อมูลนั้นค่ะ
+Metadata: {'method': 'static_response', 'tokens': 0}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: hi
+Decision: greeting
+Output: สวัสดีค่ะ! ยินดีต้อนรับสู่ TTB Bank นะคะ 😊 วันนี้มีอะไรให้ดิฉันช่วยดูแลเรื่องการเงินของคุณได้บ้างคะ? (Sawasdee ka! Yin dee dtorn rap suu TTB Bank na ka! Wan nee mee arai hai di chan chuay du la rueang gaan ngoen khong khun dai bang ka?)
+
+**(Translation: Hello! Welcome to TTB Bank! 😊 What can I help you with regarding your banking needs today?)** 
+
+Would you like to:
+
+*   Check your account balance?
+*   Make a transaction?
+*   Ask a question about a product or service?
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:55:14.686494Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 19757294708, 'load_duration': 4727786917, 'prompt_eval_count': 41, 'prompt_eval_duration': 1461351167, 'eval_count': 138, 'eval_duration': 13221634124}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: hi
+Decision: greeting
+Output: สวัสดีค่ะ! วันนี้มีอะไรให้ช่วยคะ?
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:55:38.219733Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 2560096875, 'load_duration': 215137375, 'prompt_eval_count': 55, 'prompt_eval_duration': 1457777584, 'eval_count': 12, 'eval_duration': 857488124}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สวัสดี
+Decision: greeting
+Output: สวัสดีค่ะ ยินดีให้บริการค่ะ วันนี้มีอะไรให้ช่วยคะ?
+Metadata: {'model': 'gemma3:4b', 'created_at': '2025-12-22T17:55:49.691871Z', 'message': {'role': 'assistant', 'content': ''}, 'done': True, 'done_reason': 'stop', 'total_duration': 3232407792, 'load_duration': 222528750, 'prompt_eval_count': 55, 'prompt_eval_duration': 1614440333, 'eval_count': 16, 'eval_duration': 1342159124}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: สวัสดี
+Decision: greeting
+Output: สวัสดีครับ ผมเป็นผู้ช่วย AI จาก TTB ยินดีที่ได้บริการครับ วันนี้มีอะไรให้ช่วยดูแลไหมครับ?
+Metadata: {'method': 'static_response', 'tokens': 0, 'latency': '0ms', 'timestamp': '2025-12-23T00:58:12.563789'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: hey
+Decision: greeting
+Output: Hello! I am your TTB AI Assistant. How can I help you with your banking needs today?
+Metadata: {'method': 'static_response', 'tokens': 0, 'latency': '0ms', 'timestamp': '2025-12-23T00:58:19.676135'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5681
+Input: hi
+Decision: greeting
+Output: Hello! I am your TTB AI Assistant. How can I help you with your banking needs today?
+Metadata: {'method': 'static_response', 'tokens': 0, 'latency': '0ms', 'timestamp': '2025-12-23T00:58:38.288341'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5341
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0, 'timestamp': '2025-12-23T01:00:31.758382'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5341
+Input: สินเชื่อ
+Decision: สินเชื่อ
+Output: คุณสามารถสมัครสินเชื่อเบื้องต้นได้ผ่านแอปพลิเคชันในเมนู 'สินเชื่อ' หรือติดต่อสาขาใกล้บ้านครับ
+Metadata: {'method': 'static_response', 'tokens': 0, 'timestamp': '2025-12-23T01:00:33.029362'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5341
+Input: ยอดเงินไม่เข้า
+Decision: ยอดเงินไม่เข้า
+Output: หากยอดเงินไม่เข้า โปรดรอตรวจสอบระบบ 1-2 ชั่วโมง หรือส่งหลักฐานสลิปให้เจ้าหน้าที่ตรวจสอบผ่านแชทนี้ครับ
+Metadata: {'method': 'static_response', 'tokens': 0, 'timestamp': '2025-12-23T01:00:33.301228'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_5341
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: หากสแกนจ่ายไม่ได้ โปรดตรวจสอบยอดเงินในบัญชี หรือตรวจสอบว่าแอปพลิเคชันเป็นเวอร์ชันล่าสุดแล้วหรือไม่
+Metadata: {'method': 'static_response', 'tokens': 0, 'timestamp': '2025-12-23T01:00:33.565538'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_2304
+Input: cat
+Decision: unknown
+Output: I don't have that information about cat.
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_2304
+Input: สวัสดี
+Decision: greeting
+Output: สวัสดีครับ ผมเป็นผู้ช่วย AI จาก TTB ยินดีที่ได้บริการครับ วันนี้มีอะไรให้ช่วยดูแลไหมครับ?
+Metadata: {'method': 'static_response', 'tokens': 0, 'latency': '0ms', 'timestamp': '2025-12-23T01:01:12.873482'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_2304
+Input: dog
+Decision: unknown
+Output: I don't have that information about dog.
+Metadata: {'method': 'static_response', 'tokens': 0, 'latency': '0ms', 'timestamp': '2025-12-23T01:01:12.873482'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_2304
+Input: สวัสดัี
+Decision: unknown
+Output: ฉันไม่มีข้อมูลเกี่ยวกับ สวัสดิ์ ครับ/ค่ะ
+Metadata: {}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_2304
+Input: สวัสดี
+Decision: greeting
+Output: สวัสดีครับ ผมเป็นผู้ช่วย AI จาก TTB ยินดีที่ได้บริการครับ วันนี้มีอะไรให้ช่วยดูแลไหมครับ?
+Metadata: {'method': 'static_response', 'tokens': 0, 'latency': '0ms', 'timestamp': '2025-12-23T01:02:16.243890'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_2304
+Input: hi
+Decision: greeting
+Output: Hello! I am your TTB AI Assistant. How can I help you with your banking needs today?
+Metadata: {'method': 'static_response', 'tokens': 0, 'latency': '0ms', 'timestamp': '2025-12-23T01:02:19.756344'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9078
+Input: สินเชื่อ
+Decision: สินเชื่อ
+Output: คุณสามารถสมัครสินเชื่อเบื้องต้นได้ผ่านแอปพลิเคชันในเมนู 'สินเชื่อ' หรือติดต่อสาขาใกล้บ้านครับ
+Metadata: {'method': 'static_response', 'tokens': 0, 'timestamp': '2025-12-23T01:24:27.852795'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9078
+Input: เปิดบัญชีอย่างไร
+Decision: เปิดบัญชีอย่างไร
+Output: การเปิดบัญชีใหม่สามารถทำได้ง่ายๆ ผ่านแอปโดยใช้การยืนยันตัวตนรูปแบบดิจิทัล (NDID) ได้เลยครับ
+Metadata: {'method': 'static_response', 'tokens': 0, 'timestamp': '2025-12-23T01:24:31.043463'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9078
+Input: สแกนจ่ายไม่ได้
+Decision: สแกนจ่ายไม่ได้
+Output: หากสแกนจ่ายไม่ได้ โปรดตรวจสอบยอดเงินในบัญชี หรือตรวจสอบว่าแอปพลิเคชันเป็นเวอร์ชันล่าสุดแล้วหรือไม่
+Metadata: {'method': 'static_response', 'tokens': 0, 'timestamp': '2025-12-23T01:24:31.597382'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9078
+Input: ยอดเงินไม่เข้า
+Decision: ยอดเงินไม่เข้า
+Output: หากยอดเงินไม่เข้า โปรดรอตรวจสอบระบบ 1-2 ชั่วโมง หรือส่งหลักฐานสลิปให้เจ้าหน้าที่ตรวจสอบผ่านแชทนี้ครับ
+Metadata: {'method': 'static_response', 'tokens': 0, 'timestamp': '2025-12-23T01:24:31.872172'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: session_9078
+Input: สวัสดี
+Decision: greeting
+Output: สวัสดีครับ ผมเป็นผู้ช่วย AI จาก TTB ยินดีที่ได้บริการครับ วันนี้มีอะไรให้ช่วยดูแลไหมครับ?
+Metadata: {'method': 'static_response', 'tokens': 0, 'latency': '0ms', 'timestamp': '2025-12-23T01:24:40.726778'}
+==================================================

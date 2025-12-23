@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Initial Greeting",
+    "payload": {
+      "message": "Hi, how can you help me today?",
+      "thread_id": "customer_ttb_001"
+    }
+  }
+]
