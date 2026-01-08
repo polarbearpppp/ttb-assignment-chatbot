@@ -6,6 +6,9 @@ services:
       - "8000:8000"
     environment:
       - OLLAMA_HOST=http://ollama:11434
+    volumes:
+      - chat_logs:/app/logs
+      - vectorstore_data:/app/vectorstore
     depends_on:
       - ollama
 
@@ -35,3 +38,5 @@ services:
 
 volumes:
   ollama_data:
+  chat_logs:
+  vectorstore_data:

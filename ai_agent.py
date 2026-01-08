@@ -28,7 +28,7 @@ embed = OllamaEmbeddings(
 
 # 3. Update your Chroma reference
 vectorstore_from_directory = Chroma(
-    persist_directory="./credit_risk_management_guidebook_vectorstore",
+    persist_directory="/app/vectorstore/credit_risk_management_guidebook",
     embedding_function=embed # Use the embed model, not the llm
 )
 
@@ -154,9 +154,8 @@ def unknown_node(state: GraphState):
     user_input = state.user_input
     th = 0.75
     
-    # 1. Try High Threshold (0.8)
+    # 1. Try High Threshold (0.75)
     rag_results = retrieve_relevant_docs(user_input, threshold=th)
-    
     # Check if we got results
     if len(rag_results) > 0:
         context_text = rag_results[0].page_content
@@ -167,10 +166,21 @@ def unknown_node(state: GraphState):
         
         prompt = PromptTemplate.from_template(template)
         chain = ({"context": lambda x: context_text, "question": RunnablePassthrough()} 
-                 | prompt | llm | StrOutputParser())
+                 | prompt | llm)
         
         answer = chain.invoke(user_input)
-        return {"final_output": answer}
+        return {
+        "final_output": answer.content,
+        "raw_metadata": {
+            "method": f"Generated via RAG with high threshold ({answer.response_metadata['model']})",
+            "input_tokens": answer.response_metadata['prompt_eval_count'],
+            "time_to_read": answer.response_metadata['prompt_eval_duration'],
+            "output_tokens": answer.response_metadata['eval_count'],
+            "time_to_generate": answer.response_metadata['eval_duration'],
+            "timestamp": datetime.now().isoformat()
+        
+        }}
+        # return {"final_output": answer}
 
     # 2. Try Lower Threshold (0.6)
     low_th = th - 0.15
@@ -187,10 +197,21 @@ def unknown_node(state: GraphState):
         
         prompt = PromptTemplate.from_template(template)
         chain = ({"context": lambda x: context_text, "question": RunnablePassthrough()} 
-                 | prompt | llm | StrOutputParser())
+                 | prompt | llm )
         
         recommendation = chain.invoke(user_input)
-        return {"final_output": recommendation}
+        return {
+        "final_output": recommendation.content,
+        "raw_metadata": {
+            "method": f"Generated recommendation question with acceptable threshold ({recommendation.response_metadata['model']})",
+            "input_tokens": recommendation.response_metadata['prompt_eval_count'],
+            "time_to_read": recommendation.response_metadata['prompt_eval_duration'],
+            "output_tokens": recommendation.response_metadata['eval_count'],
+            "time_to_generate": recommendation.response_metadata['eval_duration'],
+            "timestamp": datetime.now().isoformat()
+        
+        }}
+        # return {"final_output": recommendation}
 
     # 3. Default Fallback (No Context Found)
     else:
@@ -198,11 +219,19 @@ def unknown_node(state: GraphState):
             'You are a helpful AI assistant. Say: "I don\'t have that information about {user_input}" '
             'briefly and in the same language as the user.'
         )
-        chain = fallback_prompt | llm | StrOutputParser()
+        chain = fallback_prompt | llm 
         answer = chain.invoke({"user_input": user_input})
-        return {"final_output": answer}
-
-
+        return {
+        "final_output": answer.content,
+        "raw_metadata": {
+            "method": f"fallback answer with low threshold ({answer.response_metadata['model']})",
+            "input_tokens": answer.response_metadata['prompt_eval_count'],
+            "time_to_read": answer.response_metadata['prompt_eval_duration'],
+            "output_tokens": answer.response_metadata['eval_count'],
+            "time_to_generate": answer.response_metadata['eval_duration'],
+            "timestamp": datetime.now().isoformat()
+        
+        }}
 
 # 4. Router Logic
 def router(state: GraphState):

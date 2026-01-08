@@ -75,8 +75,12 @@ def save_chat_to_audit_log(thread_id, user_query, bot_response, raw_metadata, de
     )
     print(log_entry)
     
-    # Optional: Save to a local file for the assignment
-    with open("chat_audit_log.txt", "a") as f:
+    # Save to persistent volume
+    log_dir = "/app/logs"
+    import os
+    os.makedirs(log_dir, exist_ok=True)
+    log_file = os.path.join(log_dir, "chat_audit_log.txt")
+    with open(log_file, "a") as f:
         f.write(log_entry)
 
 if __name__ == "__main__":

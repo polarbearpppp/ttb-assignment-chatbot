@@ -16,6 +16,10 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the rest of the code
 COPY . .
 
+# Copy existing vectorstore to volume location with correct structure
+RUN mkdir -p /app/vectorstore/credit_risk_management_guidebook && \
+    cp -r credit_risk_management_guidebook_vectorstore/* /app/vectorstore/credit_risk_management_guidebook/ 2>/dev/null || true
+
 # Expose port
 EXPOSE 8000
 
