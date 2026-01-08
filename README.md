@@ -22,10 +22,11 @@ ttb-chatbot/
 ├── backend.py                                    # FastAPI backend server
 ├── ai_agent.py                                   # AI agent logic with LangGraph
 ├── ai_test.py                                    # AI agent tests
-├── ragds.ipynb                                   # RAG development notebook
+├── ragds.ipynb                                   # RAG development notebook , notebook file to create vector database
 ├── test_case.json                                # Test cases
 ├── chat_audit_log.txt                            # Chat interaction logs
-├── credit_risk_management_guidebook_vectorstore/ # Vector store with embeddings
+├── credit_risk_management_guidebook_vectorstore/ # Vector store with embeddings , you will get this folder after complied ragds.ipynb  
+├── PrinciplesForManagementofCreditRisk.pdf       # pdf document to create vector database
 └── ttb-chatbot-ui/                               # React TypeScript frontend
     ├── src/
     │   ├── App.tsx                              # Main React component
