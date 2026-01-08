@@ -1,1 +1,5 @@
 .env
+credit_risk_management_guidebook_vectorstore/
+__pycache__/
+*.pyc
+.DS_Store

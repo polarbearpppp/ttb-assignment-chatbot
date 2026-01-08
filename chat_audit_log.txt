@@ -1417,3 +1417,19 @@ Decision: greeting
 Output: สวัสดีครับ ผมเป็นผู้ช่วย AI จาก TTB ยินดีที่ได้บริการครับ วันนี้มีอะไรให้ช่วยดูแลไหมครับ?
 Metadata: {'method': 'static_response', 'tokens': 0, 'latency': '0ms', 'timestamp': '2025-12-23T01:24:40.726778'}
 ==================================================
+
+==================================================
+AUDIT LOG - Thread: customer_ttb_001
+Input: Hi, how can you help me today?
+Decision: greeting
+Output: Hello! I am your TTB AI Assistant. How can I help you with your banking needs today?
+Metadata: {'method': 'static_response', 'tokens': 0, 'latency': '0ms', 'timestamp': '2025-12-23T11:47:10.502347'}
+==================================================
+
+==================================================
+AUDIT LOG - Thread: customer_ttb_001
+Input: Hi, how can you help me today?
+Decision: greeting
+Output: Hello! I am your TTB AI Assistant. How can I help you with your banking needs today?
+Metadata: {'method': 'static_response', 'tokens': 0, 'latency': '0ms', 'timestamp': '2025-12-23T12:02:14.458820'}
+==================================================
